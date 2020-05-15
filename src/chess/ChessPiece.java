@@ -12,5 +12,4 @@ public class ChessPiece extends Piece{
 		this.color = color;
 	}
 	
-	
 }
