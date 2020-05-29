@@ -31,7 +31,7 @@ public abstract class Piece {
 	public boolean isThereAnyPossibleMove(Position position) {
 		boolean[][] matrix = possibleMoves();
 		for (int i = 0; i < matrix.length; i++) {
-			for (int j = 0; j < matrix[i].length; j++) {
+			for (int j = 0; j < matrix.length; j++) {
 				if (matrix[i][j]) {
 					return true;
 				}
