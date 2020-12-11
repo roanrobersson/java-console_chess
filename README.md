@@ -1,17 +1,37 @@
 
 # Java Console Chess :chess_pawn:
+This game runs on the console and was developed during the course **[Java COMPLETE 2020 Object Oriented Programming + Projects](https://www.udemy.com/course/java-curso-completo/)**, taught by **[Nelio Alves](https://www.linkedin.com/in/nelio-alves)**, to practice the object orientation paradigm.
+
+## Requeriments 🔧
+- Java version 8 or higher.
 
 ## How to play :video_game:
-1. Open a **[Git Bash](https://gitforwindows.org/)**
-2. Go to `java-console_chess/bin`
-3. Run game with command `java application/Program`
-4. Play!
 
-![enter image description here](https://user-images.githubusercontent.com/31264496/94511032-99da5900-01ee-11eb-9b56-325f2b36c3cc.gif)
+#### # Clone the repository using a **[Git Bash](https://gitforwindows.org/)** (Git Bash can show colors)
+```bash 
+git clone https://github.com/roanrobersson/java-console_chess.git 
+```
 
-For move a piece, type your position to select it, then type the destination of the selected piece in the format `line` +`column`, eg: `e1` 
+#### # Import the project in **[Eclipse](https://www.eclipse.org/ide/)** or any other Java IDE
 
-### Pieces
+#### # Build the project
+
+#### # Again on **[Git Bash](https://gitforwindows.org/)**, go to executable folder
+```bash
+cd java-console_chess/bin/
+```
+
+#### # Run the game
+```bash
+java application/Program
+```
+
+![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/demo.png)
+
+## Information 🔧
+- For move a piece, type your position to select it, then type the destination of the selected piece in the format `line` +`column`, eg: `e1` 
+
+#### Pieces symbols
 | Pawn | Rook |  Knight | Bishop |  Queen | King |
 |---|---|---|---|---|---|
 | **P** | **R** | **N** | **B** | **Q** | **K** |
