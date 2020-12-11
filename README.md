@@ -28,7 +28,7 @@ java application/Program
 
 ![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/demo.gif)
 
-## Information 🔧
+## Information :memo:
 - For move a piece, type your position to select it, then type the destination of the selected piece in the format `line` +`column`, eg: `e1` 
 
 #### Pieces symbols
