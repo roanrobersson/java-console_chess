@@ -1,6 +1,8 @@
 
 # Java Console Chess :chess_pawn:
-This game runs on the console and was developed during the course **[Java COMPLETE 2020 Object Oriented Programming + Projects](https://www.udemy.com/course/java-curso-completo/)**, taught by **[Nelio Alves](https://www.linkedin.com/in/nelio-alves)**, to practice the object orientation paradigm.
+A console chess game developed during the course **[Java COMPLETE 2020 Object Oriented Programming + Projects](https://www.udemy.com/course/java-curso-completo/)**, taught by **[Nelio Alves](https://www.linkedin.com/in/nelio-alves)**, to practice the object orientation paradigm.
+
+![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/demo.gif)
 
 ## Requeriments 🔧
 - Java version 8 or higher.
@@ -25,8 +27,6 @@ cd java-console_chess/bin/
 ```bash
 java application/Program
 ```
-
-![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/demo.gif)
 
 ## Information :memo:
 - For move a piece, type your position to select it, then type the destination of the selected piece in the format `line` +`column`, eg: `e1` 
