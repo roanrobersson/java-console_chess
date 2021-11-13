@@ -36,4 +36,5 @@ java application/Program
 |---|---|---|---|---|---|
 | **P** | **R** | **N** | **B** | **Q** | **K** |
 
-
+## Class diagram
+![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/class-diagram.png)
